@@ -108,6 +108,17 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Kiara",
+      "species": "Chicken",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
